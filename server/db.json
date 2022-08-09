@@ -1,0 +1,126 @@
+{
+  "contacts": [
+    {
+      "id": "I9kfJhevop",
+      "name": "Ethan Winters",
+      "photo": "https://64.media.tumblr.com/a59698a0ed6b619bcdab62dec1bf0f94/bd13dcd1d6ad7340-96/s540x810/41c81acf809801f1f49dac08bfc7f3c9966b48e0.pnj",
+      "mobile": "0987654321",
+      "email": "ethan@gmail.com",
+      "company": "Umbrella Corporation",
+      "title": "System Engineer",
+      "groupId": "1"
+    },
+    {
+      "id": "cqrtIsl8WD",
+      "name": "Lady Dimitrescu",
+      "photo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bec39620-41bb-4192-b189-31eed6fde012/dejqpj2-4bf8b5de-3e49-44b1-b46e-e5ae83cae5e1.png/v1/fill/w_1095,h_730,strp/_mmd__re8___lady_dimitrescu_render_test_by_arisumatio_dejqpj2-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODU0IiwicGF0aCI6IlwvZlwvYmVjMzk2MjAtNDFiYi00MTkyLWIxODktMzFlZWQ2ZmRlMDEyXC9kZWpxcGoyLTRiZjhiNWRlLTNlNDktNDRiMS1iNDZlLWU1YWU4M2NhZTVlMS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.o43PSy5JUK9uH3AVNL09woz0-acwN7obOF2gDfP71No",
+      "mobile": "0985111222",
+      "email": "lady.dimitrescu@gmail.com",
+      "company": "Umbrella Corporation",
+      "title": "Villain",
+      "groupId": "1"
+    },
+    {
+      "id": "0v0YRldoVs",
+      "name": "Chris Redfield",
+      "photo": "https://pbs.twimg.com/media/EaTiP9eWAAEjzHa.png:large",
+      "mobile": "0972123456",
+      "email": "chris@gmail.com",
+      "company": "Umbrella Corporation",
+      "title": "Protagonist",
+      "groupId": "5"
+    },
+    {
+      "id": "CO8Q27A4gb",
+      "name": "Jill Valentine",
+      "photo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c50a4d4b-ecd6-4cf0-8aa8-635e9e3c3835/ddu74yf-98a6bbba-c332-493f-99f3-fcd357c65bbe.jpg/v1/fill/w_1280,h_1668,q_75,strp/jill_valentine_by_popovajr_ddu74yf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY2OCIsInBhdGgiOiJcL2ZcL2M1MGE0ZDRiLWVjZDYtNGNmMC04YWE4LTYzNWU5ZTNjMzgzNVwvZGR1NzR5Zi05OGE2YmJiYS1jMzMyLTQ5M2YtOTlmMy1mY2QzNTdjNjViYmUuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lcW9jRaZAyoKHqjabqN1C5ktQpmsP8Uu80XTD5X4lGs",
+      "mobile": "0310002121",
+      "email": "jill@gmail.com",
+      "company": "Umbrella Corporation",
+      "title": "Protagonist",
+      "groupId": "5"
+    },
+    {
+      "id": "7teCIHNMQW",
+      "name": "Amber Heard",
+      "photo": "https://officialpsds.com/imageview/7n/p6/7np63n_large.png?1528519710",
+      "mobile": "0842667788",
+      "email": "amber@gmail.com",
+      "company": "Netflix",
+      "title": "Actress",
+      "groupId": "4"
+    },
+    {
+      "id": "KLHbKjrIUJ",
+      "name": "Greta Thunberg",
+      "photo": "https://pngarchive.com/public/uploads/preview/greta-thunberg-11568451182e0mh8dvdk6.png",
+      "mobile": "0989111444",
+      "email": "greta@gmail.com",
+      "company": "United Nations",
+      "title": "Commedy Actress",
+      "groupId": "4"
+    },
+    {
+      "id": "woJjaTY2Ta",
+      "name": "Tom Cat",
+      "photo": "https://officialpsds.com/imageview/72/m4/72m4nk_large.png?1528830101",
+      "mobile": "0372169606",
+      "email": "helloworld@gmail.com",
+      "company": "Warner Bros",
+      "title": "Laughter Destructor",
+      "groupId": "3"
+    },
+    {
+      "id": "e6p9nTKQRB",
+      "name": "Jerry Mouse",
+      "photo": "https://i.pinimg.com/originals/37/88/31/378831fd6c64524de6a4fc76ed9a127a.png",
+      "mobile": "0234199768",
+      "email": "cheeselover@gmail.com",
+      "company": "Warner Bros",
+      "title": "Laughter Destructor",
+      "groupId": "3"
+    },
+    {
+      "name": "Pepe Frog",
+      "photo": "https://chpic.su/_data/stickers/p/PEPEtop/PEPEtop_066.webp",
+      "mobile": "0943667788",
+      "email": "pepeyeye@gmail.com",
+      "company": "VOZ",
+      "title": "Senior",
+      "groupId": "2",
+      "id": "kMlGlUw"
+    },
+    {
+      "name": "Pikadoge",
+      "photo": "https://i.kym-cdn.com/photos/images/original/002/028/834/386.png",
+      "mobile": "0340988159",
+      "email": "pikadoge@gmail.com",
+      "company": "VOZ",
+      "title": "Baiter",
+      "groupId": "2",
+      "id": "tK6dPac"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Community"
+    },
+    {
+      "id": "2",
+      "name": "Colleague"
+    },
+    {
+      "id": "3",
+      "name": "Friend"
+    },
+    {
+      "id": "4",
+      "name": "Family"
+    },
+    {
+      "id": "5",
+      "name": "Others"
+    }
+  ]
+}
